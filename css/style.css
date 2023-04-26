@@ -400,6 +400,16 @@ margin-bottom: 40px;
     
     }
 }
+@media only screen and (max-width:430px){
+    .footer-lists{
+        text-align: center;
+    }
+    .sub-footer1{
+        text-align: center;
+    }
+
+}
+
 @media only screen and (max-width:320px){
     .our-panel-section-text h1{
         font-size: 2rem;
